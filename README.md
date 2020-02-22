@@ -21,6 +21,7 @@ Due to the abundance and complexity of images, the remainder of the project spec
 
 ## Final Remarks 
 Project Credit: Tim Baldwin - 2019 Semester 1 for Foundation of Computing
+
 **all code in this repo, unless specified as example, are by Betty Lin**
 
 
